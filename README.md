@@ -2,7 +2,7 @@
 
 A real-time chatbot application built with ASP.NET Core, using SQLite for persistence and SignalR for real-time communication.
 
-## Features
+### Features
 
 - Real-time chat using SignalR
 - OpenAI integration for AI responses
